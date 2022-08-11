@@ -15,4 +15,4 @@ ithration = 1
 while ithration <= months:
     cash = cash + (cash * 0.015)
     ithration = ithration + 1
-print(cash)
+print("Cash after", months,"in bank:", cash)
